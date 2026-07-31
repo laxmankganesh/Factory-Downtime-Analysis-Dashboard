@@ -19,10 +19,18 @@ The goal was to:
 ---
 
 ## Dashboard Highlights
+
 - Factory-wise downtime analysis
 - Device-wise downtime analysis
 - Interactive Tableau dashboard
 - Visual comparison of downtime across locations
+
+### Dashboard Screenshots
+![Dashboard Screenshot ](dashboard.jpg)
+
+### Certificate
+![Deloitte Certificate](certificate.jpg)
+
 
 ---
 
